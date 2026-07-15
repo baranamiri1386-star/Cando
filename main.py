@@ -6,6 +6,7 @@ def var1():
     with open("kalaha.txt" , "a")as file:
         file.write(var_final)
         file.write("\n")
+        #saaalaaaaaaammmm
 
 
 
